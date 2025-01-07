@@ -6,7 +6,7 @@ const AboutUs = () => {
       <div className="container mx-auto px-8">
         {/* Hero Section */}
         <div className="text-center mb-16">
-          <h1 className="text-5xl font-bold text-white mb-4">About TechnoMind Blog</h1>
+          <h1 className="text-5xl font-bold text-white mb-4 mt-10 sm:mt-8">About TechnoMind Blog</h1>
           <p className="text-xl text-gray-200 max-w-3xl mx-auto">
             WeboraBlog is your gateway to creativity, empowering content creators and writers to connect, publish, and grow. 
             Whether you're a budding blogger or a seasoned writer, we're here to support your journey.

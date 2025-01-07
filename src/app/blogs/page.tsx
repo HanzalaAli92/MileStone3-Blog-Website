@@ -137,7 +137,7 @@ export const blogs: IData[] = [
 const BlogsPage = () => {
   return (
     <div className="flex flex-col justify-center items-center py-20 bg-gradient-to-b from-indigo-50 to-indigo-100">
-      <h2 className="text-5xl font-semibold text-center text-indigo-800 mb-8">
+      <h2 className="text-5xl font-semibold text-center text-indigo-800 mb-8 mt-10 sm:mt-8">
       TechnoMind Blogs
       </h2>
       <p className="text-lg max-w-3xl text-center text-indigo-600 px-4 mb-12">

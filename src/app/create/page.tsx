@@ -75,7 +75,7 @@ const Page = () => {
     <div>
       <section className="bg-gradient-to-r from-indigo-600 to-purple-600 text-gray-600 py-24 px-8">
         <div className="container mx-auto text-center">
-          <h1 className="sm:text-4xl text-3xl font-bold mb-6 text-white">
+          <h1 className="sm:text-4xl text-3xl font-bold mb-6 text-white mt-10 sm:mt-4">
             Create Your Blog and Publish
           </h1>
           <p className="lg:w-2/3 mx-auto text-lg text-gray-200 mb-12">
