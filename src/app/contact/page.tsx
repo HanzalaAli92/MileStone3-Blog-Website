@@ -97,7 +97,7 @@ const ContactUs = () => {
           <div className="flex space-x-8 justify-center">
             <div className="text-lg">
               <p className="font-semibold">Email:</p>
-              <p className="text-white">support@weborablog.com</p>
+              <p className="text-white">support@Technomind.com</p>
             </div>
             <div className="text-lg">
               <p className="font-semibold">Phone:</p>

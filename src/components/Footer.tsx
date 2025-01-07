@@ -47,7 +47,7 @@ const Footer = () => {
             <ul className="space-y-2">
               <li>
                 <a href="#" className="hover:text-purple-400 transition duration-300">
-                  WeboraBlog API
+                TechnoMind API
                 </a>
               </li>
               <li>

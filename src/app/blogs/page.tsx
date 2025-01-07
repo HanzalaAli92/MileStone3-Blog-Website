@@ -18,7 +18,7 @@ export const blogs: IData[] = [
     author: "Emma Green",
     description:
       "Electric vehicles are reshaping the automotive industry with their eco-friendly features and technological advancements. Here's a look at their journey and future potential.",
-    image: "/blog7-EE.webp",
+    image: "/blog1-EE.webp",
   },
   {
     id: 2,
@@ -26,7 +26,7 @@ export const blogs: IData[] = [
     author: "Liam White",
     description:
       "Cooking is both an art and a science. Explore techniques, recipes, and tips to elevate your culinary skills to the next level.",
-    image: "/blog8-MA.jpeg",
+    image: "/blog2-MA.jpeg",
   },
   {
     id: 3,
@@ -34,7 +34,7 @@ export const blogs: IData[] = [
     author: "Sophia Black",
     description:
       "Climate change is one of the most pressing issues of our time. Understanding its effects and what we can do to mitigate them is crucial.",
-    image: "/blog9-CC.jpeg",
+    image: "/blog3-CC.jpeg",
   },
   {
     id: 4,
